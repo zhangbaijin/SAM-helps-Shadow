@@ -1,2 +1,3 @@
 # Shadow-SAM
-A method using SAM model to removal anything shadow
+When segment anything model meet shadow removal
+![image](https://github.com/zhangbaijin/SAM-helps-Shadow/blob/main/structure.png)
